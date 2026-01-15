@@ -40,7 +40,7 @@ This script automates the entire recovery procedure into **a single click**.
 
 2. **Google Chrome Recovery**
    - Closes Google Chrome
-   - Clears Chrome cache
+   - Clears the logged-in user's Chrome cache
    - Restarts Google Chrome
 
 3. **User Interface**
